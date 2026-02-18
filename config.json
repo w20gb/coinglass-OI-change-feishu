@@ -1,5 +1,5 @@
 {
-    "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/72c926c7-f96b-4fe1-85ba-80f96260c565",
+    "feishu_webhook": "",
     "monitor_settings": {
         "interval_seconds": 300,
         "oi_change_threshold": 0.05,
